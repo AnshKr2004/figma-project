@@ -1,0 +1,105 @@
+#page{
+    width: 1440px;
+    height: 1918px;
+    background-color: #0B0E15;
+}
+header{
+    background-color: #171A21;
+    width: 1440px;
+    height: 43px;
+}
+div.topbar{
+    color: #E0ECFF;
+    float: right;
+}
+.topbar p{
+    display: inline;
+    padding: 0px 34px 16px 8.08px;
+}
+.topbar img{
+    width: 21.18px;
+    height: 21.18px;
+    border-left: 2px solid #363A44;
+    padding: 10.91px 0px 0px 37.5px;
+}
+section{
+    background-color: #0B0E15;
+    color: #FFFFFF;
+    width: 1440px;
+    height: 988px;
+}
+#name{
+    color: #0070E7;
+}
+.hero p{
+    display: inline;
+    margin-left: 37px;
+    font-size: x-large;
+}
+.heading {
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 38px;
+}
+.heading p{
+    font-size: 72px;
+}
+.hero button{
+    background-color: #0070E7;
+    color: #FFFFFF;
+    border-radius: 12px;
+    width: 137px;
+    height: 52px;
+}
+#talk{
+    margin-left: 1265px;
+}
+#kursaha{
+    width: 135.19px;
+    height: 61px;
+}
+#kursaha img{
+    width: 44.88px;
+    height: 26.06px;
+    margin-left: 99px;
+}
+.campaign{
+    height: 500px;
+    width: 750px;
+    margin: 64px 345px 0px 345px;
+}
+#get{
+    margin-left: 621px;
+    margin-top: 41px;
+}
+footer{
+    display: inline-block;
+    width: 1440px;
+    height: 804px;
+    background-color: #1C232B;
+}
+footer img{
+    margin-top: 62px;
+    margin-right: 76px;
+    float: right;
+    width: 725px;
+    height: 699px;
+}
+.head{
+    margin-left: 84px;
+    margin-bottom: 46px;
+    color: #FFFFFF;
+    font-size: 64px;
+}
+footer p span{
+    color: #0070E7;
+}
+footer p{
+    font-size: 24px;
+    margin-left: 26px;
+    color: #FFFFFF;
+}
+.border{
+    border-left: #E0ECFF solid 2px;
+    margin-left: 61px;
+}
